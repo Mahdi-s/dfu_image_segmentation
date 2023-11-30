@@ -19,7 +19,7 @@ This repository contains code for performing semantic segmentation on Diabetic F
 
 ### Dataset download
 
-Please download the dataset of DFU images provided by Medetec from the link below:
+Please download the dataset of DFU images provided by Medetec from the following link:
 [DFU dataset](https://ndusbpos-my.sharepoint.com/:u:/g/personal/mahdi_saeedi_ndus_edu/Ea2rPJJnlChFrwrmkPWFMqEBUUZcAYxndXvIw3ifwD1qog?e=aTmOMq) 
 
 ## Usage
