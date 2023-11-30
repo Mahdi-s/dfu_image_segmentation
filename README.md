@@ -11,7 +11,7 @@ This repository contains code for performing semantic segmentation on Diabetic F
 ### Setup
 1. Clone the repository:
    
-```git clone [URL of your repository]```
+```git clone https://github.com/Mahdi-s/dfu_image_segmentation.git```
 
 3. Install the required dependencies:
    
